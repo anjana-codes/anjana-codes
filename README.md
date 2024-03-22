@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m Anjana Dhakal.
-👯 I’m currently enrolled in a Master's in Data Analytics. 
-👯 I’m looking for an opportunity to work in data analysis and data-related work.
+🌱 I’m Anjana Dhakal. 
+👯 I am a student of data analytics passionate about telling stories with the data. 
+
   
 <!--
 **anjana-codes/anjana-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
