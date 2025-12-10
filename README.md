@@ -31,7 +31,7 @@ Recently completed my **Master of Science in Data Analytics (Dec 2025)**, expand
 
 ## 📂 Featured Projects
 
-### 🧼 [Data Cleaning with Python](https://github.com/anjana-codes/capstone-project-anjana)  
+### 🧼 [Data Cleaning with Python](https://github.com/anjana-codes/capstone-project-anjana) 
 Demonstrated end-to-end preprocessing techniques: handling missing values, correcting formats, detecting outliers, and preparing structured datasets for modeling.
 
 ### 🩺 [Healthcare Data Cleaning & Analysis](https://github.com/anjana-codes/ml_regression_anjana/blob/main/notebooks/finalproject/regression_anjana.ipynb)  
@@ -46,5 +46,5 @@ Included data cleaning, feature engineering, model evaluation, and result interp
 
 ## 📫 Let's Connect
 
-🔗 **LinkedIn:** *(Add your LinkedIn link here)*  
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/anjana-dhakal-b33a352a9/)*  
 💻 **GitHub:** https://github.com/anjana-codes  
