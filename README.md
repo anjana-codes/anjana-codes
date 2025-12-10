@@ -18,10 +18,11 @@ Recently completed my **Master of Science in Data Analytics (Dec 2025)**, expand
 
 **Languages:** Python, SQL, R  
 **Databases:** SQL Server, PostgreSQL  
-**Tools:** Excel, Tableau, Jupyter Notebooks, SPSS 
+**Tools:** Excel, Tableau, Jupyter Notebooks, SPSS, Rally, TFS  
 **Data Skills:**  
 - Data cleaning & preprocessing  
-- Data modeling   
+- Data modeling  
+- ETL testing  
 - Statistical analysis  
 - Predictive analytics  
 - Data visualization  
@@ -30,18 +31,14 @@ Recently completed my **Master of Science in Data Analytics (Dec 2025)**, expand
 
 ## 📂 Featured Projects
 
-### 🩺 Healthcare Data Cleaning & Analysis  
+### 🧼 [Data Cleaning with Python](https://github.com/anjana-codes/capstone-project-anjana)  
+Demonstrated end-to-end preprocessing techniques: handling missing values, correcting formats, detecting outliers, and preparing structured datasets for modeling.
+
+### 🩺 [Healthcare Data Cleaning & Analysis](https://github.com/anjana-codes/ml_regression_anjana/blob/main/notebooks/finalproject/regression_anjana.ipynb)  
 Cleaned, validated, and analyzed healthcare datasets using Python and SQL.  
 Performed exploratory data analysis to uncover patterns in patient and provider behavior.
 
-### 🧼 Data Cleaning with Python  
-Demonstrated end-to-end preprocessing techniques: handling missing values, correcting formats, detecting outliers, and preparing structured datasets for modeling.
-
-### 🍽️ Food Facts Exploratory Data Analysis  
-Analyzed nutritional patterns and correlations in the Food Facts dataset using Pandas and Matplotlib.  
-Generated meaningful visualizations to highlight key trends.
-
-### 🧮 Decision Tree & Regression Models (Coursework)  
+### 🧮 [Decision Tree & Regression Models (Coursework)](https://github.com/anjana-codes/applied-ml-anjana) 
 Built classification and regression models using real-world datasets.  
 Included data cleaning, feature engineering, model evaluation, and result interpretation.
 
@@ -49,6 +46,5 @@ Included data cleaning, feature engineering, model evaluation, and result interp
 
 ## 📫 Let's Connect
 
-🔗 **LinkedIn:** *(https://www.linkedin.com/in/anjana-dhakal-b33a352a9/)*  
+🔗 **LinkedIn:** *(Add your LinkedIn link here)*  
 💻 **GitHub:** https://github.com/anjana-codes  
-
